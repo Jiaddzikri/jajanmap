@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Seblak Nangerang",
+    "price": "Rp. 1.000/toping–10.000",
+    "location": "Jl. Anggrek No. 15, Sumedang",
+    "image": "/src/assets/umkm/seblak-nangerang.webp",
+    "category": "makanan"
+  },
+  {
+    "id": 2,
+    "name": "Es Kopi Gula Aren",
+    "price": "Rp. 8.000–15.000",
+    "location": "Jl. Prabu Gajah Agung No. 22, Sumedang",
+    "image": "/src/assets/umkm/es-kopi.webp",
+    "category": "minuman"
+  },
+  {
+    "id": 3,
+    "name": "Bakso Mang Endang",
+    "price": "Rp. 10.000–20.000",
+    "location": "Jl. Kutamaya No. 10, Sumedang",
+    "image": "/src/assets/umkm/bakso-mang-endang.webp",
+    "category": "makanan"
+  },
+  {
+    "id": 4,
+    "name": "Laundry Bersih Wangi",
+    "price": "Rp. 5.000/kg",
+    "location": "Jl. Pahlawan No. 5, Sumedang",
+    "image": "/src/assets/umkm/laundry.webp",
+    "category": "jasa"
+  },
+  {
+    "id": 5,
+    "name": "Cilok Goang Asep",
+    "price": "Rp. 1.000–5.000",
+    "location": "Jl. Karanganyar No. 8, Sumedang",
+    "image": "/src/assets/umkm/cilok-goang.webp",
+    "category": "makanan"
+  },
+  {
+    "id": 6,
+    "name": "Percetakan Cepat Jaya",
+    "price": "Mulai Rp. 50.000",
+    "location": "Jl. Talun No. 11, Sumedang",
+    "image": "/src/assets/umkm/percetakan.webp",
+    "category": "jasa"
+  },
+  {
+    "id": 7,
+    "name": "Tahu Sumedang Maknyus",
+    "price": "Rp. 2.000–10.000",
+    "location": "Jl. Mayor Abdurahman No. 3, Sumedang",
+    "image": "/src/assets/umkm/tahu-sumedang.webp",
+    "category": "makanan"
+  },
+  {
+    "id": 8,
+    "name": "Es Duren Segar",
+    "price": "Rp. 12.000–20.000",
+    "location": "Jl. Darmaraja No. 7, Sumedang",
+    "image": "/src/assets/umkm/es-duren.webp",
+    "category": "minuman"
+  },
+  {
+    "id": 9,
+    "name": "Jasa Potong Rambut Kang Asep",
+    "price": "Rp. 15.000–25.000",
+    "location": "Jl. Tegal Kalong No. 2, Sumedang",
+    "image": "/src/assets/umkm/barbershop.webp",
+    "category": "jasa"
+  },
+  {
+    "id": 10,
+    "name": "Nasi Tutug Oncom Bu Euis",
+    "price": "Rp. 10.000–18.000",
+    "location": "Jl. Simpang No. 9, Sumedang",
+    "image": "/src/assets/umkm/nasi-tutug.webp",
+    "category": "makanan"
+  },
+  {
+    "id": 11,
+    "name": "Minuman Thai Tea Cinta Rasa",
+    "price": "Rp. 8.000–12.000",
+    "location": "Jl. Cipacing No. 4, Sumedang",
+    "image": "/src/assets/umkm/thai-tea.webp",
+    "category": "minuman"
+  },
+  {
+    "id": 12,
+    "name": "Laundry Kilat Express",
+    "price": "Rp. 6.000/kg",
+    "location": "Jl. Parakanmuncang No. 6, Sumedang",
+    "image": "/src/assets/umkm/laundry-express.webp",
+    "category": "jasa"
+  }
+]

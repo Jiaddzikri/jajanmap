@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Gudeg Jogja",
+    "price": "Rp. 25.000/porsi",
+    "location": "Jl. Prabu Gajah Agung No. 3, Sumedang",
+    "image": "/src/assets/umkm/gudeg.webp",
+    "category": "makanan"
+  },
+  {
+    "id": 2,
+    "name": "Kopi Susu Gula Aren",
+    "price": "Rp. 15.000",
+    "location": "Jl. Angkrek No. 12, Sumedang",
+    "image": "/src/assets/umkm/kopi-susu.webp",
+    "category": "minuman"
+  },
+  {
+    "id": 3,
+    "name": "Laundry Express 1 Hari",
+    "price": "Rp. 20.000/kg",
+    "location": "Jl. Cipadung No. 5, Sumedang",
+    "image": "/src/assets/umkm/laundry.webp",
+    "category": "jasa"
+  },
+  {
+    "id": 4,
+    "name": "Bakso Malang Jumbo",
+    "price": "Rp. 30.000/porsi",
+    "location": "Jl. Tegal Kalong No. 4, Sumedang",
+    "image": "/src/assets/umkm/bakso.webp",
+    "category": "makanan"
+  },
+  {
+    "id": 5,
+    "name": "Es Teh Manis Segar",
+    "price": "Rp. 8.000",
+    "location": "Jl. Cipacing No. 9, Sumedang",
+    "image": "/src/assets/umkm/es-teh.webp",
+    "category": "minuman"
+  },
+  {
+    "id": 6,
+    "name": "Service AC Rumah",
+    "price": "Rp. 150.000",
+    "location": "Jl. Sukajadi No. 2, Sumedang",
+    "image": "/src/assets/umkm/service-ac.webp",
+    "category": "jasa"
+  },
+  {
+    "id": 7,
+    "name": "Ayam Goreng Kremes",
+    "price": "Rp. 35.000/porsi",
+    "location": "Jl. Pahlawan No. 8, Sumedang",
+    "image": "/src/assets/umkm/ayam-goreng.webp",
+    "category": "makanan"
+  },
+  {
+    "id": 8,
+    "name": "Jus Alpukat Fresh",
+    "price": "Rp. 18.000",
+    "location": "Jl. Darmaraja No. 6, Sumedang",
+    "image": "/src/assets/umkm/jus-alpukat.webp",
+    "category": "minuman"
+  },
+  {
+    "id": 9,
+    "name": "Reparasi Sepeda Motor",
+    "price": "Rp. 50.000–150.000",
+    "location": "Jl. Kutamaya No. 11, Sumedang",
+    "image": "/src/assets/umkm/bengkel.webp",
+    "category": "jasa"
+  },
+  {
+    "id": 10,
+    "name": "Tahu Sumedang Asli",
+    "price": "Rp. 2.000–10.000",
+    "location": "Jl. Mayor Abdurahman No. 10, Sumedang",
+    "image": "/src/assets/umkm/tahu-sumedang.webp",
+    "category": "makanan"
+  },
+  {
+    "id": 11,
+    "name": "Cilok Goang Kang Ujang",
+    "price": "Rp. 1.000–5.000",
+    "location": "Jl. Talun No. 7, Sumedang",
+    "image": "/src/assets/umkm/cilok.webp",
+    "category": "makanan"
+  },
+  {
+    "id": 12,
+    "name": "Percetakan Digital Print",
+    "price": "Mulai Rp. 50.000",
+    "location": "Jl. Parakanmuncang No. 2, Sumedang",
+    "image": "/src/assets/umkm/percetakan.webp",
+    "category": "jasa"
+  }
+]
